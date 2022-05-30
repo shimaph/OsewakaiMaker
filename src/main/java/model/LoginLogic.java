@@ -7,6 +7,7 @@ public class LoginLogic {
 		
 		if(input_name.equals("hyokatsu") && input_pass.equals("hyokatsu")) {
 			return true;
+			
 		}
 		return false;
 	}
