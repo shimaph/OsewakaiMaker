@@ -1,0 +1,1 @@
+web: gunicorn OsewakaiMaker:app --log-file - 
