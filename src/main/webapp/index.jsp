@@ -5,11 +5,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>OsewakaiMaker β</title>
+<title>OsewakaiMaker beta</title>
 </head>
 <body>
-<h1>Osewakai-Maker</h1>
-<form action="/OsewakaiMaker/Login" method="post">
+<h1>Osewakai-Maker beta</h1>
+<form action="/Login" method="post">
 ユーザ名:<input type="text" name="name"><br>
 PASS:<input type="password" name="pass"><br>
 <input type="submit" value="ログイン"></form><br>

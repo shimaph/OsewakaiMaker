@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* servlet.start
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* index.jsp

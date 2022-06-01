@@ -12,7 +12,7 @@
 <title>振り分け結果</title>
 </head>
 <body>
-<form action="/OsewakaiMaker/Show" method="post" id="form" name="form">
+<form action="/Show" method="post" id="form" name="form">
 <button  id="reset" form="form" value="reset">リセット</button>
 </form>
 

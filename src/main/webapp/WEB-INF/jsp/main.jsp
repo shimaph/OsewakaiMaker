@@ -16,7 +16,7 @@
 <div>
 <h1>メンバー登録</h1>
 
-<form action="/OsewakaiMaker/Main" method="post">
+<form action="/Main" method="post">
 あだ名:<input type="text" name="name"><br>
 パーティ:<input type="text" name="party"><br>
 期:<br>
@@ -37,7 +37,7 @@
 
 <div>
 <!-- お世話会数の入力を受け、Showサーブレットに送る -->
-<form action="/OsewakaiMaker/Show" method="post">
+<form action="/Show" method="post">
 お世話会の数<input type="number" name="number" required="required"><br>
 <input type= "submit" value="このメンバーでお世話会をつくる">
 </form>
