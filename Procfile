@@ -1,1 +1,1 @@
-web: gunicorn OsewakaiMaker:app --log-file - 
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* servlet.start
